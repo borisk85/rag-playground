@@ -1,0 +1,5 @@
+chromadb
+voyageai
+anthropic
+pypdf
+python-dotenv
